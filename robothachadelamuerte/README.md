@@ -1,6 +1,6 @@
 #ROBOTHACHA DE LA MUERTE
 
-<img src="/media/images/robothacha.jpg" width="80%" alt="">
+<img src="./media/images/robothacha.jpg" width="80%" alt="">
 
 Repositorio con el material generado del robot de competicion ROBOTHACHA DE LA MUERTE creado durante el Hackaton "El Evento 2016" Celebrado el jueves 27 de Octubre de 2016.
 
