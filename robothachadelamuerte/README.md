@@ -16,11 +16,8 @@ Equipo original NULL_POINTER_EXCEPTION:
 Eventos en los que ha participado el robot:
 
 * HEBOCON - OSHWDem 2016 - 5/11/2016- La Coruña - <a href="https://youtu.be/syvnGW0P9tE">Video de la competición</a>
-* Hackaton "El Evento 2016" - 27/10/2016- Leganés
+* Hackaton "El Evento 2016" - 27/10/2016- Leganés - <a href="https://youtu.be/bVIiEVoqJ9s">Explicación del funcionamiento</a> - <a href="https://youtu.be/DsxWZ8JsHGs">Contrareloj</a> - <a href="https://youtu.be/i-IyNlImYDw">Competición final</a> - <a href="http://www.elconfidencial.com/tecnologia/2016-11-27/estos-jovenes-ingenieros-espanoles-fabrican-sus-instrumentos-con-objetos-cotidianos_1295392/">Artículo sobre la competición</a>  
 
-** <a href="https://youtu.be/bVIiEVoqJ9s">Explicación del funcionamiento</a>
-** <a href="https://youtu.be/DsxWZ8JsHGs">Contrareloj</a>
-** <a href="https://youtu.be/i-IyNlImYDw">Competición final</a>
 
 =============
 
