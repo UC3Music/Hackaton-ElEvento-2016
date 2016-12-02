@@ -18,6 +18,10 @@ Eventos en los que ha participado el robot:
 * HEBOCON - OSHWDem 2016 - 5/11/2016- La Coruña - <a href="https://youtu.be/syvnGW0P9tE">Video de la competición</a>
 * Hackaton "El Evento 2016" - 27/10/2016- Leganés
 
+** <a href="https://youtu.be/bVIiEVoqJ9s">Explicación del funcionamiento</a>
+** <a href="https://youtu.be/DsxWZ8JsHGs">Contrareloj</a>
+** <a href="https://youtu.be/i-IyNlImYDw">Competición final</a>
+
 =============
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ROBOTHACHA DE LA MUERTE</span> licensed by <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
